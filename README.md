@@ -1,28 +1,24 @@
-# This is a large heading
+# Josef Aquino Azimov
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Ilhabela, state of Sao Paulo, Brazil.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *50 MAratonas em 50 dias* by Dean Karnazes
+- *Rápido e Devagar, Duas formas de pensar* by Daniel Kahneman
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+My favorites:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Dark Chocolate from my litle farm.
+2. Acai from Amazonia.
+3. My Duck eggs.
+
+### Contact
+
+The best way to get in touch with me is (josef.aquino@gmail.com).# Josef Aquino
