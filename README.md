@@ -21,4 +21,4 @@ My favorites:
 
 ### Contact
 
-The best way to get in touch with me is (josef.aquino@gmail.com).# Josef Aquino
+The best way to get in touch with me is (josef.aquino@gmail.com).
