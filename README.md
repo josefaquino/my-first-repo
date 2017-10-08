@@ -1,4 +1,4 @@
-# Josef Aquino Azimov
+# Josef Aquino(Azimov)
 
 ### Geography
 
@@ -8,7 +8,7 @@ I live in the city of Ilhabela, state of Sao Paulo, Brazil.
 
 Three of my favorite books are:
 
-- *50 MAratonas em 50 dias* by Dean Karnazes
+- *50 Maratonas em 50 dias* by Dean Karnazes
 - *Rápido e Devagar, Duas formas de pensar* by Daniel Kahneman
 
 ### Food
